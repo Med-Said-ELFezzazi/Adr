@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<bombilla codigo="L012" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Ejercicio1.xsd">
+	<tipo>Led</tipo>
+	<color unidad="kelvin">2700</color>
+	<tension unidad="kilovoltios">220</tension>
+</bombilla>
